@@ -1,0 +1,9 @@
+Comments in HTML are used to add notes or explanations to your code that won't be displayed on the webpage. They're great for documenting your code or temporarily disabling certain parts. 
+
+Example:-
+
+<!-- This is a comment in HTML -->
+<p>This is a paragraph of text.</p>
+<!-- <p>This paragraph is commented out and won't be displayed.</p> -->
+
+In the example above, the first line is a comment that won't show up on the webpage. The second line is an actual paragraph of text that will be displayed. The third line is a commented-out paragraph that won't be displayed. 

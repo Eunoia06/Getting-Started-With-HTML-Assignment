@@ -1,0 +1,16 @@
+HTML program that includes a heading, a paragraph of text, a horizontal line, and a line break:-
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Web Page</title>
+</head>
+<body>
+  <h1>This is a Heading</h1>
+  <p>This is a paragraph of text.</p>
+  <hr>
+  <br>
+  <p>These elements create a web page layout.</p>
+</body>
+</html>
+

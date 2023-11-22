@@ -1,0 +1,1 @@
+The DOCTYPE declaration in HTML is used to specify the version of HTML being used in the document. It is placed at the very beginning of an HTML document, before the <html> tag. The DOCTYPE declaration helps the browser understand how to interpret and render the HTML code.
